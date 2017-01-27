@@ -4,8 +4,12 @@ change1
 
 change2
 
+<<<<<<< HEAD
 change3
 
 change4
 
 change5 for hotfix
+=======
+change3
+>>>>>>> testBranch
